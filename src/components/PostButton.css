@@ -1,0 +1,18 @@
+/* PostButton.css */
+.field {
+    text-align: center; /* Center-align the button */
+  }
+  
+  .ui.black.button {
+    background-color: grey; /* Background color for the button */
+    color: white; /* Text color for better contrast */
+    border: none; /* Remove the button border */
+    padding: 0.5em 1em; /* Adjust padding as needed */
+    border-radius: 4px; /* Add some border radius for a rounded look */
+    cursor: pointer; /* Add pointer cursor on hover for better UX */
+  }
+  
+  .ui.black.button:hover {
+    background-color: black; /* Change to your preferred hover color */
+  }
+  
